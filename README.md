@@ -94,10 +94,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=FFD700&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NathanielCoronado&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=FFD700&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanielCoronado&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00FF9C&fire=FFD700&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=NathanielCoronado&hide_border=true&background=0D1117&ring=00FF9C&fire=FFD700&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/NathanielCoronado/NathanielCoronado/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
