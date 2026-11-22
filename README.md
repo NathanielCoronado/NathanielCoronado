@@ -20,7 +20,7 @@
 
 ```txt
 > NAME ........... Nathaniel S. Coronado
-> CLASS .......... BS Information Technology @ New Era University
+> CLASS .......... 3rd Year BS Information Technology @ New Era University
 > RANK ........... Dean's Lister
 > SIDE QUEST ..... Customer Service Representative @ Inspiro
 > SPECIAL SKILL .. Working student — school + full-time job, no lag
